@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ANSSRC</string>
+    <string name="fullname">Fullname</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="already_registered_nlogin_here">Already Registered?\nLogin Here</string>
+    <string name="mobile_number">Mobile Number</string>
+
+
+
+    <string-array name="subject">
+        <item>JAVA</item>
+        <item>C Programming</item>
+        <item>Python</item>
+        <item>C++</item>
+        <item>Data Base Management System</item>
+    </string-array>
+
+    <string-array name="roles">
+        <item>Faculty</item>
+        <item>Student</item>
+        <item>Admin</item>
+    </string-array>
+</resources>
